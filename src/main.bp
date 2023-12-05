@@ -1,31 +1,36 @@
 {
   "positions" : [ {
     "id" : "/Start",
-    "x" : 290,
-    "y" : 673
+    "x" : 2072,
+    "y" : 693
   }, {
     "id" : "/NoMatch",
-    "x" : 511,
-    "y" : 1696
+    "x" : 3352,
+    "y" : 873
   }, {
     "id" : "/adres market",
     "name" : "NewState",
-    "x" : 1090,
-    "y" : 224
+    "x" : 3352,
+    "y" : 261
   }, {
     "id" : "/createUser",
     "name" : "createOrder",
-    "x" : 1683,
-    "y" : 1372
+    "x" : 1042,
+    "y" : 133
   }, {
     "id" : "/CreateOrderStep1",
     "name" : "CreateOrderStep1",
-    "x" : 861,
-    "y" : 1049
+    "x" : 12,
+    "y" : 755
   }, {
     "id" : "/createOrder",
     "name" : "createOrder",
-    "x" : 1343,
-    "y" : 1544
+    "x" : 1042,
+    "y" : 1951
+  }, {
+    "id" : "/timeplan",
+    "name" : "NewState",
+    "x" : 3352,
+    "y" : 1384
   } ]
 }

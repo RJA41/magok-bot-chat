@@ -1,0 +1,26 @@
+{
+  "positions" : [ {
+    "id" : "/Start",
+    "x" : 290,
+    "y" : 673
+  }, {
+    "id" : "/NoMatch",
+    "x" : 771,
+    "y" : 1727
+  }, {
+    "id" : "/adres market",
+    "name" : "NewState",
+    "x" : 1003,
+    "y" : 357
+  }, {
+    "id" : "/createUser",
+    "name" : "createOrder",
+    "x" : 2060,
+    "y" : 852
+  }, {
+    "id" : "/CreateOrderStep1",
+    "name" : "CreateOrderStep1",
+    "x" : 1184,
+    "y" : 1083
+  } ]
+}

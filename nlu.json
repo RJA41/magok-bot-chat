@@ -126,6 +126,22 @@
     "patterns" : [ ],
     "priority" : 0
   }, {
+    "path" : "/График",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "график работы"
+    }, {
+      "text" : "время работы"
+    }, {
+      "text" : "График"
+    } ],
+    "classificationRules" : {
+      "refs" : [ ]
+    },
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
     "path" : "/Режим работы",
     "enabled" : true,
     "shared" : false,
@@ -195,6 +211,22 @@
       "text" : "Назад"
     }, {
       "text" : "Вернуться"
+    } ],
+    "classificationRules" : {
+      "refs" : [ ]
+    },
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
+    "path" : "/Назад",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "Меню"
+    }, {
+      "text" : "Вернуться"
+    }, {
+      "text" : "Назад"
     } ],
     "classificationRules" : {
       "refs" : [ ]

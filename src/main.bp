@@ -32,5 +32,10 @@
     "name" : "NewState",
     "x" : 1070,
     "y" : 3122
+  }, {
+    "id" : "/deliveryTab",
+    "name" : "deliveryTab",
+    "x" : 1089,
+    "y" : 2492
   } ]
 }

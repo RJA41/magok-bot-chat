@@ -154,3 +154,8 @@ theme: /
             https://magok.ru/info/clients
             Нам жаль, что мы разочаровали Вас😭 
              || htmlEnabled = true, html = "Порядок оформления возврата описан здесь<br><a href="https://magok.ru/info/clients/" target="_blank">https://magok.ru/info/clients</a><br>Нам жаль, что мы разочаровали Вас😭&nbsp;<br>"
+        buttons:
+            "Назад" -> /mainMenu
+            "Звонок менеджера"
+        intent: /Назад || toState = "/mainMenu"
+        event: noMatch || toState = "./"

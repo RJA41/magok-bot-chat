@@ -233,6 +233,26 @@
     },
     "patterns" : [ ],
     "priority" : 0
+  }, {
+    "path" : "/возврат",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "брак"
+    }, {
+      "text" : "претензия"
+    }, {
+      "text" : "вернуть товар"
+    }, {
+      "text" : "Вернуть"
+    }, {
+      "text" : "возврат"
+    } ],
+    "classificationRules" : {
+      "refs" : [ ]
+    },
+    "patterns" : [ ],
+    "priority" : 0
   } ],
   "entities" : [ ],
   "enabledSystemEntities" : [ "duckling.number", "duckling.time", "duckling.duration", "duckling.phone-number", "duckling.email", "duckling.url" ],

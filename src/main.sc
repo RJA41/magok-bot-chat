@@ -140,14 +140,10 @@ theme: /
             "Как можно оплатить заказ?" -> /payment
             "Как оформить возврат?" -> /vozvrat
             "Связаться с менеджером"
-        intent: /Адреса
-        intent: /Оформить заказ
-        intent: /График
         intent: /Адреса || toState = "/adres market"
         intent: /Оформить заказ || toState = "/CreateOrderStep1"
         intent: /График || toState = "/timeplan"
         intent: /возврат || toState = "/vozvrat"
-        event: noMatch || fromState = "/NoMatch"
 
     state: vozvrat
         a: Порядок оформления возврата описан здесь

@@ -30,8 +30,8 @@
   }, {
     "id" : "/timeplan",
     "name" : "NewState",
-    "x" : 1070,
-    "y" : 3122
+    "x" : 1259,
+    "y" : 3217
   }, {
     "id" : "/deliveryTab",
     "name" : "deliveryTab",
@@ -42,11 +42,6 @@
     "name" : "payment",
     "x" : 381,
     "y" : 2798
-  }, {
-    "id" : "/mainMenu",
-    "name" : "Start_2",
-    "x" : -125,
-    "y" : 2598
   }, {
     "id" : "/vozvrat",
     "name" : "vozvrat",
